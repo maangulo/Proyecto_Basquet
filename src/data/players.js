@@ -1,0 +1,35 @@
+// Define un arreglo de objetos de jugadores
+// Cada objeto de jugador tiene un 'numero', 'nombre', 'equipo' y 'posicion'
+export const players = [
+  { number: 3, name: 'Kevin Harrell', team: 'Los Angeles Lakers', position: 'Guard' },
+  { number: 5, name: 'James Fletcher', team: 'Golden State Warriors', position: 'Center' },
+  { number: 14, name: 'Jeff Montes', team: 'Chicago Bulls', position: 'Forward-Guard' },
+  { number: 27, name: 'Bryan Warner', team: 'Boston Celtics', position: 'Forward-Center' },
+  { number: 30, name: 'Scott Dale', team: 'Miami Heat', position: 'Forward' },
+  { number: 37, name: 'Noah Jones', team: 'New York Knicks', position: 'Guard' },
+  { number: 24, name: 'Liam Bennett', team: 'Dallas Mavericks', position: 'Forward' },
+  { number: 16, name: 'Oliver Hughes', team: 'Real Madrid Baloncesto', position: 'Center' },
+  { number: 7, name: 'Mason Carter', team: 'Brooklyn Nets', position: 'Guard' },
+  { number: 12, name: 'Ethan Perry', team: 'Denver Nuggets', position: 'Forward' },
+  { number: 19, name: 'Isaac Ward', team: 'San Antonio Spurs', position: 'Guard' },
+  { number: 21, name: 'Logan Bell', team: 'Phoenix Suns', position: 'Forward' },
+  { number: 34, name: 'Nathan Rogers', team: 'Milwaukee Bucks', position: 'Center' },
+  { number: 41, name: 'Dylan Brooks', team: 'Toronto Raptors', position: 'Forward' },
+  { number: 44, name: 'Benjamin Hayes', team: 'Philadelphia 76ers', position: 'Guard' },
+  { number: 48, name: 'Cole Sanders', team: 'FC Barcelona', position: 'Center' },
+  { number: 53, name: 'Lucas Miller', team: 'Houston Rockets', position: 'Forward' },
+  { number: 58, name: 'Caleb Patterson', team: 'Utah Jazz', position: 'Guard' },
+  { number: 60, name: 'Gavin Barnes', team: 'Atlanta Hawks', position: 'Center' },
+  { number: 65, name: 'Austin Reed', team: 'Indiana Pacers', position: 'Forward' },
+  { number: 68, name: 'Carter Green', team: 'New Orleans Pelicans', position: 'Guard' },
+  { number: 72, name: 'Blake Lewis', team: 'Memphis Grizzlies', position: 'Forward' },
+  { number: 75, name: 'Adrian Hall', team: 'Oklahoma City Thunder', position: 'Center' },
+  { number: 79, name: 'Xavier Morgan', team: 'Sacramento Kings', position: 'Guard' },
+  { number: 81, name: 'Jaxon Torres', team: 'Cleveland Cavaliers', position: 'Forward' },
+  { number: 85, name: 'Antonio Russell', team: 'Minnesota Timberwolves', position: 'Center' },
+  { number: 90, name: 'Emiliano Stewart', team: 'Detroit Pistons', position: 'Guard' },
+  { number: 92, name: 'Victor Coleman', team: 'Orlando Magic', position: 'Forward' },
+  { number: 97, name: 'Leo Alexander', team: 'Washington Wizards', position: 'Guard' },
+];
+
+
